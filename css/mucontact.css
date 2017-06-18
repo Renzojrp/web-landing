@@ -19,10 +19,12 @@ header{
 **/
 .third{
   background-color: #2BA3D4;
+  padding: 5%;
 }
+
 .page-footer {
     padding-top: 0;
-    background-color: #2BA3D4;
+    background-color: white;
 }
 .description{
   color: white;
