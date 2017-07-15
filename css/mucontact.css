@@ -9,25 +9,29 @@ header{
   align-items: center;
   text-align: center;
   justify-content: center;
+}**/
+.second{
+  font-size: 1.5em;
 }
-.demo-smartphone{
-  vertical-align: middle;
-  align-content: center;
-  align-items: center;
-  text-align: center;
+.btn-large{background-color: white;}
+.btn-large:hover {
+    background-color: white;
 }
-**/
 .third{
   background-color: #2BA3D4;
   padding: 5%;
 }
 
 .page-footer {
-    padding-top: 0;
+    
     background-color: white;
 }
 .description{
   color: white;
+  padding-top: 5%;
+}
+.txt-dsc{
+
 }
 /**
 @media screen and (max-width: 414px) {
